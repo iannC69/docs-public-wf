@@ -74,4 +74,3 @@ Daca vrei sa iti multiplici creditele castigate, poti participa la modulele noas
   </Card>
 </Cards>
 
-### test
