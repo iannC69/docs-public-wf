@@ -156,6 +156,7 @@ Afla toate detaliile tehnice, ghidurile pas-cu-pas si regulamentele navigand pri
   <Card title="MVP Anthem" href="/docs/systems/other/mvp">
     Muzica si animatii spectaculoase declansate automat la final de runda.
   </Card>
+  
   <Card title="Gold Member VIP" href="/docs/systems/other/gold-member">
     Beneficii premium, multiplicator de credite si comenzi exclusive.
   </Card>
