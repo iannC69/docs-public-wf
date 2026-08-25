@@ -26,3 +26,4 @@ Descoperă toate avantajele și beneficiile incluse în gradul **sloboz**.
 
 - `!vip` — Deschide meniul de configurare VIP.
 - `!vips` — Afișează membrii VIP conectați pe server.
+
